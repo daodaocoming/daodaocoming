@@ -1,8 +1,11 @@
 ## 👋 Hi there, I'm Doris Cai!
+
 Welcome to my GitHub profile! I'm currently a PSTAT (Statistics) student at UCSB, with a growing passion for Machine Learning, Data Science, and Artificial Intelligence. I'm new to the field but eager to dive into the world of technology and backend development!
 
 🌟 About Me
+
 🎓 Education: Sophomore at UCSB, majoring in PSTAT (Statistics)
+
 🔍 Interests: Machine Learning, Data Science, Large Language Models, Reinforcement Learning, AI
 
 🌱 Learning Goals:
